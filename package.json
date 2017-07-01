@@ -1,0 +1,19 @@
+{
+  "name": "netlifytest",
+  "version": "1.0.0",
+  "description": "Testing… 1. 2. 3.",
+  "main": "index.js",
+  "scripts": {
+    "build": "node -e \"console.log('testing')\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btnwtn/netlify-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/btnwtn/netlify-test/issues"
+  },
+  "homepage": "https://github.com/btnwtn/netlify-test#readme"
+}
